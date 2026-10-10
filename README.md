@@ -33,7 +33,61 @@ PHP • Laravel• Codeigniter • Python • Django • JavaScript• Jquery �
 
 ### ⭐ Featured Projects
 
-1. Restaurant POS System
+1. ERP Software
+   - Laravel & Codeigniter
+   - Inventory
+   - Procurement
+   - Import and Export
+   - Audit and Accounts
+   - Sales
+   - Production
+   - Reports
+
+2. HR and Payroll Software
+   - Laravel & Codeigniter
+   - Employee Profile
+   - Leave
+   - Attendance
+   - Salary
+   - Reports
+     
+3. School Management Software
+   - Laravel & Codeigniter
+   - Student Profile
+   - Student Attenedance
+   - Tution Fee & Exam Fee
+   - Class
+   - Section
+   - Shift
+   - Class Schedule
+   - Exam Schedule
+   - Result Sheet
+   - Teacher Profile
+   - Teacher Attendance
+   - Notifications
+   - Guardian Panel
+   - Inventory
+   - Payroll
+   - Reports
+
+3. CRM Software
+   - Codeigniter
+   - Customer Profile
+   - Projects
+   - Notifications
+   - Reports
+     
+3. Retailer Shop POS System
+   - Laravel
+   - Supplier
+   - Purchase
+   - Inventory
+   - Customers
+   - Orders
+   - Invoice
+   - Reports
+
+4. Restaurant POS System
    - Laravel
    - Inventory
    - Orders
@@ -41,15 +95,16 @@ PHP • Laravel• Codeigniter • Python • Django • JavaScript• Jquery �
    - Invoice
    - Reports
 
-2. SubTracker
+5. E-commerce Solution( Single and Multivendor)
    - Laravel
-   - Subscription management
-   - Notifications
+   - Feature Product
+   - Hot Product
+   - Flash Deal
+   - Campain
+   - Inventory
+   - Orders
+   - Invoice
    - Reports
-
-
-
-
 
 ### 📫 Contact
 
