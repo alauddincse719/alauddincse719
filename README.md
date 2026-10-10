@@ -1,4 +1,5 @@
 Mohammad Alauddin
+
 Senior Software Engineer | Laravel | Codeigniter | PHP | AI Automation | DevOps | Cyber Security
 
 👋 About Me
