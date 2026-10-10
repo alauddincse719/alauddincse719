@@ -1,16 +1,52 @@
-## Hi there 👋
+Mohammad Alauddin
+Senior Software Engineer | Laravel | Codeigniter | PHP | AI Automation | DevOps | Cyber Security
+
+👋 About Me
+💻 10+ years of software engineering experience
+🚀 Specialized in Laravel, Codeigniter, PHP, REST APIs and business applications
+🤖 Building AI-powered automation and intelligent applications
+☁️ Learning and working with AWS, Docker and DevOps
+🔐 Background in Cybersecurity
+
+### 🚀 What I Do
+
+- Laravel, Codeigniter & PHP application development
+- REST API & backend architecture
+- ERP / POS / E-commerce / SaaS development
+- AI chatbot & AI automation
+- n8n workflow automation
+- Docker & AWS
+- Database design and optimization
+
+### 🛠️ Tech Stack
+
+PHP • Laravel• Codeigniter • Python • Django • JavaScript• Jquery • React Js • Node Js • MySQL • SQL Server
+Docker • AWS • GitHub Actions
+n8n • OpenAI API • LangChain
+Linux • REST API • Redis
+
+### ⭐ Featured Projects
+
+1. Restaurant POS System
+   - Laravel
+   - Inventory
+   - Orders
+   - KOT
+   - Invoice
+   - Reports
+
+2. SubTracker
+   - Laravel
+   - Subscription management
+   - Notifications
+   - Reports
 
 
-**alauddincse719/alauddincse719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+
+### 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/mohammad-alauddin-43704578/
+- Portfolio: https://nurjahan-it.com/alauddin.xyz/
+- Email: alauddin1cse@gmail.com
