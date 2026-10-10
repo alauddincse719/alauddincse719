@@ -3,10 +3,15 @@ Mohammad Alauddin
 Senior Software Engineer | Laravel | Codeigniter | PHP | AI Automation | DevOps | Cyber Security
 
 👋 About Me
+
 💻 10+ years of software engineering experience
+
 🚀 Specialized in Laravel, Codeigniter, PHP, REST APIs and business applications
+
 🤖 Building AI-powered automation and intelligent applications
+
 ☁️ Learning and working with AWS, Docker and DevOps
+
 🔐 Background in Cybersecurity
 
 ### 🚀 What I Do
