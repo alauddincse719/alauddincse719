@@ -75,17 +75,17 @@ A comprehensive human resource and payroll management system that streamlines em
 
 Key Features
 
-Employee Profile Management
+ -Employee Profile Management
 
-Leave Management
+ -Leave Management
 
-Attendance Management
+ -Attendance Management
 
-Pay Scale Management
+ -Pay Scale Management
 
-Salary & Payroll Processing
+ -Salary & Payroll Processing
 
-Reports & Analytics
+ -Reports & Analytics
 
 Technical Highlights: Payroll Calculations · Authorization · Data Integrity · Database Management
 
@@ -97,25 +97,25 @@ An integrated school management solution for managing academic activities, stude
 
 Key Features
 
-Student & Teacher Profile Management
+ -Student & Teacher Profile Management
 
-Student & Teacher Attendance
+ -Student & Teacher Attendance
 
-Tuition Fee & Examination Fee Management
+ -Tuition Fee & Examination Fee Management
 
-Class, Section & Shift Management
+ -Class, Section & Shift Management
 
-Class & Examination Scheduling
+ -Class & Examination Scheduling
 
-Result Sheet Generation
+ -Result Sheet Generation
 
-Guardian Panel
+ -Guardian Panel
 
-Notifications
+ -Notifications
 
-Inventory & Payroll Management
+ -Inventory & Payroll Management
 
-Reports & Analytics
+ -Reports & Analytics
 
 Technical Highlights: Role-Based Access Control · Academic Workflow Management · Integrated School Administration
 
@@ -127,13 +127,13 @@ A customer relationship management solution designed to organize customer inform
 
 Key Features
 
-Customer Profile Management
+ -Customer Profile Management
 
-Project Management
+ -Project Management
 
-Notifications
+ -Notifications
 
-Reports & Analytics
+ -Reports & Analytics
 
 Technical Highlights: Customer Lifecycle Management · Project Tracking · Business Reporting
 
@@ -145,19 +145,19 @@ A retail point-of-sale solution for managing sales transactions, purchases, inve
 
 Key Features
 
-Supplier Management
+ -Supplier Management
 
-Purchase Management
+ -Purchase Management
 
-Inventory & Stock Management
+ -Inventory & Stock Management
 
-Customer Management
+ -Customer Management
 
-Order Processing
+ -Order Processing
 
-Invoice Generation
+ -Invoice Generation
 
-Sales Reports
+ -Sales Reports
 
 Technical Highlights: Transaction Consistency · Inventory Synchronization · Checkout Workflows · Sales Reporting
 
@@ -169,15 +169,15 @@ A restaurant point-of-sale system that streamlines order processing, kitchen ope
 
 Key Features
 
-Restaurant Inventory Management
+ -Restaurant Inventory Management
 
-Order Management
+ -Order Management
 
-Kitchen Order Ticket (KOT) Management
+ -Kitchen Order Ticket (KOT) Management
 
-Invoice Generation
+ -Invoice Generation
 
-Sales & Operational Reports
+ -Sales & Operational Reports
 
 Technical Highlights: Order Workflow Management · Kitchen Integration · Receipt Printing · Inventory Control
 
@@ -189,21 +189,21 @@ An e-commerce solution supporting both single-vendor stores and multivendor mark
 
 Key Features
 
-Product Categories & Subcategories
+ -Product Categories & Subcategories
 
-Featured Products & Hot Products
+ -Featured Products & Hot Products
 
-Flash Deals & Campaign Management
+ -Flash Deals & Campaign Management
 
-Wishlist & Product Comparison
+ -Wishlist & Product Comparison
 
-Inventory Management
+ -Inventory Management
 
-Order Processing
+ -Order Processing
 
-Invoice Generation
+ -Invoice Generation
 
-Reports & Analytics
+ -Reports & Analytics
 
 
 
