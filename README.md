@@ -42,9 +42,7 @@ Strengthening cloud deployment, CI/CD, monitoring, and reliability
 ### ⭐ Featured Projects
 
 1. ERP Software
-   
 Laravel · CodeIgniter · MySQL
-
 An integrated enterprise management solution for inventory, procurement, import/export operations, accounts, auditing, sales, production, and delivery challans.
 Demonstrate: modular architecture, permissions, reporting and business workflows
    
