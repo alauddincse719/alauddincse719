@@ -27,9 +27,9 @@ Senior Software Engineer | Laravel | Codeigniter | PHP | AI Automation | DevOps 
 ### 🛠️ Tech Stack
 
 PHP • Laravel• Codeigniter • Python • Django • JavaScript• Jquery • React Js • Node Js • MySQL • SQL Server
-Docker • AWS • GitHub Actions
-n8n • OpenAI API • LangChain
-Linux • REST API • Redis
+• Docker • AWS • GitHub Actions
+•n8n • OpenAI API • LangChain
+• Linux • REST API • Redis
 
 ### ⭐ Featured Projects
 
