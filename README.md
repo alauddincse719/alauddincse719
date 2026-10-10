@@ -39,45 +39,175 @@ Strengthening cloud deployment, CI/CD, monitoring, and reliability
 
 🌍 Interested in remote and international opportunities in senior software engineering, backend development, and AI-enabled business applications.
 
-### ⭐ Featured Projects
+⭐ Featured Projects
 
-1. ERP Software
-Laravel · CodeIgniter · MySQL
-An integrated enterprise management solution for inventory, procurement, import/export operations, accounts, auditing, sales, production, and delivery challans.
-Demonstrate: modular architecture, permissions, reporting and business workflows
-   
+1. 🏢 ERP Software
 
-3. HR and Payroll Software
-Laravel · CodeIgniter · MySQL · SQL Server
-Employee profiles, leave management, attendance, pay scales, salary processing, and reports.
-Demonstrate: payroll calculations, authorization, and data integrity.  
-   
-     
-4. School Management Software
-Laravel · CodeIgniter · MySQL
-Student and teacher management, attendance, fees, schedules, examinations, results, guardian access, inventory, and payroll.
-Demonstrate: role-based access and interconnected academic workflows.
-   
+Tech Stack: Laravel · CodeIgniter · MySQL
 
-5. CRM Software
-CodeIgniter · MySQL
-Customer profiles, project tracking, notifications, and business reporting.
-Demonstrate: customer lifecycle management and reporting.
-     
-6. Retailer Shop POS System
-Laravel · MySQL
-Supplier and purchase management, stock control, customer orders, invoices, and sales reports.
-Demonstrate: transaction consistency, inventory updates and checkout workflows.   
-   
-7. Restaurant POS System
-CodeIgniter · MySQL
-Restaurant inventory, order management, kitchen order tickets (KOT), invoice generation, and reporting.
-Demonstrate: order workflows, kitchen integration and receipt printing.
+An integrated enterprise management solution for managing business operations, resources, and workflows.
 
-8. Single-Vendor & Multivendor E-commerce
-Laravel · CodeIgniter
-Product categories, promotions, flash deals, wishlists, comparisons, inventory, orders, invoices, and reporting.
-Demonstrate: vendor isolation, order lifecycle and inventory management.   
+Key Features
+
+Inventory Management
+
+Procurement Management
+
+Import & Export Management
+
+Audit & Accounts Management
+
+Sales Management
+
+Production Management
+
+Delivery Challan Management
+
+Reports & Analytics
+
+Technical Highlights: Modular Architecture · Role-Based Permissions · Business Workflow Automation · Reporting
+
+2. 👥 HR & Payroll Software
+
+Tech Stack: Laravel · CodeIgniter · MySQL · SQL Server
+
+A comprehensive human resource and payroll management system that streamlines employee administration and salary processing.
+
+Key Features
+
+Employee Profile Management
+
+Leave Management
+
+Attendance Management
+
+Pay Scale Management
+
+Salary & Payroll Processing
+
+Reports & Analytics
+
+Technical Highlights: Payroll Calculations · Authorization · Data Integrity · Database Management
+
+3. 🎓 School Management Software
+
+Tech Stack: Laravel · CodeIgniter · MySQL
+
+An integrated school management solution for managing academic activities, students, teachers, and administrative operations.
+
+Key Features
+
+Student & Teacher Profile Management
+
+Student & Teacher Attendance
+
+Tuition Fee & Examination Fee Management
+
+Class, Section & Shift Management
+
+Class & Examination Scheduling
+
+Result Sheet Generation
+
+Guardian Panel
+
+Notifications
+
+Inventory & Payroll Management
+
+Reports & Analytics
+
+Technical Highlights: Role-Based Access Control · Academic Workflow Management · Integrated School Administration
+
+4. 🤝 CRM Software
+
+Tech Stack: CodeIgniter · MySQL
+
+A customer relationship management solution designed to organize customer information, track projects, and improve business operations.
+
+Key Features
+
+Customer Profile Management
+
+Project Management
+
+Notifications
+
+Reports & Analytics
+
+Technical Highlights: Customer Lifecycle Management · Project Tracking · Business Reporting
+
+5. 🛒 Retail Shop POS System
+
+Tech Stack: Laravel · MySQL
+
+A retail point-of-sale solution for managing sales transactions, purchases, inventory, suppliers, and customer information.
+
+Key Features
+
+Supplier Management
+
+Purchase Management
+
+Inventory & Stock Management
+
+Customer Management
+
+Order Processing
+
+Invoice Generation
+
+Sales Reports
+
+Technical Highlights: Transaction Consistency · Inventory Synchronization · Checkout Workflows · Sales Reporting
+
+6. 🍽️ Restaurant POS System
+
+Tech Stack: CodeIgniter · MySQL
+
+A restaurant point-of-sale system that streamlines order processing, kitchen operations, inventory, billing, and reporting.
+
+Key Features
+
+Restaurant Inventory Management
+
+Order Management
+
+Kitchen Order Ticket (KOT) Management
+
+Invoice Generation
+
+Sales & Operational Reports
+
+Technical Highlights: Order Workflow Management · Kitchen Integration · Receipt Printing · Inventory Control
+
+7. 🛍️ Single-Vendor & Multivendor E-commerce
+
+Tech Stack: Laravel · CodeIgniter · MySQL
+
+An e-commerce solution supporting both single-vendor stores and multivendor marketplaces, with product discovery, promotions, inventory, and order management.
+
+Key Features
+
+Product Categories & Subcategories
+
+Featured Products & Hot Products
+
+Flash Deals & Campaign Management
+
+Wishlist & Product Comparison
+
+Inventory Management
+
+Order Processing
+
+Invoice Generation
+
+Reports & Analytics
+
+
+
+  
 
 ### 📫 Contact
 
