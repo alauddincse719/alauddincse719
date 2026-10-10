@@ -49,21 +49,21 @@ An integrated enterprise management solution for managing business operations, r
 
 Key Features
 
-Inventory Management
+ -Inventory Management
 
-Procurement Management
+ -Procurement Management
 
-Import & Export Management
+ -Import & Export Management
 
-Audit & Accounts Management
+ -Audit & Accounts Management
 
-Sales Management
+ -Sales Management
 
-Production Management
+ -Production Management
 
-Delivery Challan Management
+ -Delivery Challan Management
 
-Reports & Analytics
+ -Reports & Analytics
 
 Technical Highlights: Modular Architecture · Role-Based Permissions · Business Workflow Automation · Reporting
 
