@@ -90,7 +90,7 @@ PHP • Laravel• Codeigniter • Python • Django • JavaScript• Jquery �
    - Reports
 
 4. Restaurant POS System
-   - Laravel
+   - Codeigniter
    - Inventory
    - Orders
    - KOT
@@ -98,7 +98,7 @@ PHP • Laravel• Codeigniter • Python • Django • JavaScript• Jquery �
    - Reports
 
 5. E-commerce Solution( Single and Multivendor)
-   - Laravel
+   - Laravel and Codeigniter
    - Category and Subcategory
    - Feature Product
    - Hot Product
