@@ -42,82 +42,42 @@ Strengthening cloud deployment, CI/CD, monitoring, and reliability
 ### ⭐ Featured Projects
 
 1. ERP Software
-   - Laravel & Codeigniter
-   - Inventory
-   - Procurement
-   - Import and Export
-   - Audit and Accounts
-   - Sales
-   - Production
-   - Delivery Challan
-   - Reports
+Laravel · CodeIgniter · MySQL
+An integrated enterprise management solution for inventory, procurement, import/export operations, accounts, auditing, sales, production, and delivery challans.
+Demonstrate: modular architecture, permissions, reporting and business workflows
+   
 
 2. HR and Payroll Software
-   - Laravel & Codeigniter
-   - Employee Profile
-   - Leave
-   - Attendance
-   - Payscale
-   - Salary
-   - Reports
+Laravel · CodeIgniter · MySQL · SQL Server
+Employee profiles, leave management, attendance, pay scales, salary processing, and reports.
+Demonstrate: payroll calculations, authorization, and data integrity.  
+   
      
 3. School Management Software
-   - Laravel & Codeigniter
-   - Student Profile
-   - Student Attenedance
-   - Tution Fee & Exam Fee
-   - Class
-   - Section
-   - Shift
-   - Class Schedule
-   - Exam Schedule
-   - Result Sheet
-   - Teacher Profile
-   - Teacher Attendance
-   - Notifications
-   - Guardian Panel
-   - Inventory
-   - Payroll
-   - Reports
+Laravel · CodeIgniter · MySQL
+Student and teacher management, attendance, fees, schedules, examinations, results, guardian access, inventory, and payroll.
+Demonstrate: role-based access and interconnected academic workflows.
+   
 
-3. CRM Software
-   - Codeigniter
-   - Customer Profile
-   - Projects
-   - Notifications
-   - Reports
+4. CRM Software
+CodeIgniter · MySQL
+Customer profiles, project tracking, notifications, and business reporting.
+Demonstrate: customer lifecycle management and reporting.
      
-3. Retailer Shop POS System
-   - Laravel
-   - Supplier
-   - Purchase
-   - Inventory
-   - Customers
-   - Orders
-   - Invoice
-   - Reports
+5. Retailer Shop POS System
+Laravel · MySQL
+Supplier and purchase management, stock control, customer orders, invoices, and sales reports.
+Demonstrate: transaction consistency, inventory updates and checkout workflows.   
+   
+6. Restaurant POS System
+CodeIgniter · MySQL
+Restaurant inventory, order management, kitchen order tickets (KOT), invoice generation, and reporting.
+Demonstrate: order workflows, kitchen integration and receipt printing.
 
-4. Restaurant POS System
-   - Codeigniter
-   - Inventory
-   - Orders
-   - KOT
-   - Invoice
-   - Reports
-
-5. E-commerce Solution( Single and Multivendor)
-   - Laravel and Codeigniter
-   - Category and Subcategory
-   - Feature Product
-   - Hot Product
-   - Flash Deal
-   - Wish List
-   - Comparison
-   - Campain
-   - Inventory
-   - Orders
-   - Invoice
-   - Reports
+7. Single-Vendor & Multivendor E-commerce
+Laravel · CodeIgniter
+Product categories, promotions, flash deals, wishlists, comparisons, inventory, orders, invoices, and reporting.
+Demonstrate: vendor isolation, order lifecycle and inventory management.   
 
 ### 📫 Contact
 
