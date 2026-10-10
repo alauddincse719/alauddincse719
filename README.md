@@ -41,6 +41,7 @@ PHP • Laravel• Codeigniter • Python • Django • JavaScript• Jquery �
    - Audit and Accounts
    - Sales
    - Production
+   - Delivery Challan
    - Reports
 
 2. HR and Payroll Software
@@ -48,6 +49,7 @@ PHP • Laravel• Codeigniter • Python • Django • JavaScript• Jquery �
    - Employee Profile
    - Leave
    - Attendance
+   - Payscale
    - Salary
    - Reports
      
@@ -97,9 +99,12 @@ PHP • Laravel• Codeigniter • Python • Django • JavaScript• Jquery �
 
 5. E-commerce Solution( Single and Multivendor)
    - Laravel
+   - Category and Subcategory
    - Feature Product
    - Hot Product
    - Flash Deal
+   - Wish List
+   - Comparison
    - Campain
    - Inventory
    - Orders
