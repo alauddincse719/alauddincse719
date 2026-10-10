@@ -42,7 +42,9 @@ Strengthening cloud deployment, CI/CD, monitoring, and reliability
 ### ⭐ Featured Projects
 
 1. ERP Software
+
 Laravel · CodeIgniter · MySQL
+
 An integrated enterprise management solution for inventory, procurement, import/export operations, accounts, auditing, sales, production, and delivery challans.
 Demonstrate: modular architecture, permissions, reporting and business workflows
    
@@ -56,31 +58,23 @@ Demonstrate: payroll calculations, authorization, and data integrity.
    
      
 4. School Management Software
-
 Laravel · CodeIgniter · MySQL
-
 Student and teacher management, attendance, fees, schedules, examinations, results, guardian access, inventory, and payroll.
 Demonstrate: role-based access and interconnected academic workflows.
    
 
 5. CRM Software
-
 CodeIgniter · MySQL
-
 Customer profiles, project tracking, notifications, and business reporting.
 Demonstrate: customer lifecycle management and reporting.
      
 6. Retailer Shop POS System
-
 Laravel · MySQL
-
 Supplier and purchase management, stock control, customer orders, invoices, and sales reports.
 Demonstrate: transaction consistency, inventory updates and checkout workflows.   
    
 7. Restaurant POS System
-
 CodeIgniter · MySQL
-
 Restaurant inventory, order management, kitchen order tickets (KOT), invoice generation, and reporting.
 Demonstrate: order workflows, kitchen integration and receipt printing.
 
