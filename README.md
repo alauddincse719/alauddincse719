@@ -13,6 +13,8 @@ I'm also expanding my expertise in AI-powered applications, LLM integrations, bu
 
 🚀 Core Expertise
 
+Frontend Development: HTML, CSS, Bootstrap, Javascript, Jquery, React Js
+
 Backend Development: PHP, Laravel, CodeIgniter, REST APIs
 
 Enterprise Applications: ERP, HRM, CRM, POS, E-commerce, SaaS
