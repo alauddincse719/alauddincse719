@@ -15,9 +15,9 @@ I'm also expanding my expertise in AI-powered applications, LLM integrations, bu
 
 Frontend Development: HTML, CSS, Bootstrap, Javascript, Jquery, React Js
 
-Backend Development: PHP, Laravel, CodeIgniter, REST APIs
+Backend Development: PHP, Laravel, CodeIgniter, Python , Django , REST APIs
 
-Enterprise Applications: ERP, HRM, CRM, POS, E-commerce, SaaS
+Enterprise Applications: ERP, HRM, CRM, POS, E-commerce, SaaS 
 
 Database Engineering: MySQL, SQL Server, query optimization
 
